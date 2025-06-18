@@ -1,2 +1,7 @@
 # SQLPractice
-This repository store all the solutions from my HackerRank account. I use this website to work on real-world problems and sharpen my SQL skills.
+This repository stores all my SQL solutions from my HackerRank account. I use this website to work on real-world problems and sharpen my SQL skills.
+This repository is a comprehensive collection of my solutions to a wide array of coding challenges and problems from HackerRank. As a Conversational AI Designer at Quantiphi last year and a Quality Engineer at ServiceNow right now, I continually seek to refine my skills and stay current in various domains, including algorithms, data structures, mathematics, artificial intelligence, databases, and more. This portfolio serves as a testament to my commitment to excellence in data analysis, science, and engineering.
+
+Each challenge presented here has been carefully tackled, with solutions predominantly implemented in SQL. My approach to solving these problems emphasizes not only correctness but also efficiency, scalability, and the production of clean, maintainable code. By solving these challenges, I aim to demonstrate my algorithmic thinking, proficiency in various programming paradigms, and my ability to handle complex computational tasks with precision and creativity.
+
+This repository is not just a showcase of my scripting abilities but also a reflection of the continuous learning and problem-solving mindset that I bring to my work at ServiceNow as a Quality Engineer. Whether you're looking to understand my thought process, assess my technical expertise, or explore innovative solutions to interesting problems, this portfolio provides a detailed insight into my engineering journey.

@@ -1,0 +1,123 @@
+This link consists of showing a table that I have created while inserting data, which comes from a different source as an exception:
+https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pc/challenge-book-list-database
+*********************************************************************************************************************************************
+
+Here's the real-world problem via a link: 
+https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
+
+Here's the code below:
+
+SELECT *
+FROM CITY
+WHERE CountryCode = 'USA'
+AND Population > 100000;
+
+Here's the output:
+
+3878 Scottsdale USA Arizona 202705 
+3965 Corona USA California 124966 
+3973 Concord USA California 121780 
+3977 Cedar Rapids USA Iowa 120758 
+3982 Coral Springs USA Florida 117549 
+*********************************************************************************************************************************************
+
+
+Here's the real-world problem via a link:
+https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true
+
+Here's the code below:
+
+SELECT NAME
+FROM CITY
+WHERE CountryCode = 'USA'
+AND Population > 120000;
+
+Here's the output:
+
+Scottsdale
+Corona
+Concord
+Cedar Rapids
+*******************************************************************************************************************************************
+
+
+Here's the real-world problem via a link: 
+https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true
+
+Here's the code below:
+
+SELECT *
+FROM CITY;
+
+Here's the output:
+
+6 Rotterdam NLD Zuid-Holland 593321 
+3878 Scottsdale USA Arizona 202705 
+3965 Corona USA California 124966 
+3973 Concord USA California 121780 
+3977 Cedar Rapids USA Iowa 120758 
+3982 Coral Springs USA Florida 117549 
+4054 Fairfield USA California 92256 
+4058 Boulder USA Colorado 91238 
+4061 Fall River USA Massachusetts 90555 
+*******************************************************************************************************************************************
+
+
+Here's the real-world problem via a link: 
+https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true
+
+Here's the code below:
+
+SELECT *
+FROM CITY
+WHERE ID = '1661';
+
+Here's the output:
+
+1661 Sayama JPN Saitama 162472
+******************************************************************************************************************************************
+
+
+
+Here's the real-world problem via a link: 
+https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
+
+Here's the code below:
+
+SELECT *
+FROM CITY
+WHERE COUNTRYCODE = 'JPN';
+
+Here's the output:
+
+1613 Neyagawa JPN Osaka 257315
+1630 Ageo JPN Saitama 209442
+1661 Sayama JPN Saitama 162472
+1681 Omuta JPN Fukuoka 142889
+1739 Tokuyama JPN Yamaguchi 107078
+***************************************************************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
